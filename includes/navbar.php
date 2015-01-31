@@ -18,9 +18,6 @@
 				</h2>
 			</hgroup>
 			<div id="facebook">
-				<div id="google">
-					<g:plusone href="http://www.parkplumb.co.uk"></g:plusone>
-				</div>
 				<a href="http://www.facebook.com/ParkPlumbTile"><img
 					src="images/facebook_button.png" height="40px"
 					alt="Like me on Facebook" title="Join Us On Facebook"> </a>
@@ -38,7 +35,7 @@
 				<li><a href="flooring.php">Floor Tiling</a></li>
 				<li><a href="walltiling.php">Wall Tiling</a></li>
 				<li><a href="laminate.php">Wood &amp; Laminate Flooring</a></li>
-				<li><a href="cardiff_plumbing.php">Plumbing Servcie</a></li>	
+				<li><a href="cardiff_plumbing.php">Plumbing Service</a></li>	
 				<li><a href="feedback.php">Customer Testimonials</a></li>
 				<?php  /*
 print "<li class="last"><a href="mailto:matt@parkplumb.co.uk?Subject=Quotation Request">Email Now for a free Quotation</a></li>"
