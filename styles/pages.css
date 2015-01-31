@@ -1,0 +1,16 @@
+/*
+Template Name: 
+File: Portfolio 15 CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+#portfolio{display:block; width:100%; line-height:1.6em;}
+#portfolio ul, #portfolio p{margin:0; padding:0; list-style:none;}
+#portfolio li{display:block; float:left; width:300px; margin:0 30px 30px 0; padding:0;}
+#portfolio li.last{margin-right:0;}
+#portfolio .article, #portfolio .article .figure{display:block; width:100%;}
+#portfolio .article .figure img{width:280px; height:150px; margin:0 0 15px 0; padding:9px; border:1px solid #B7B7B7;}
+#portfolio .article .figure .figcaption{}
+#portfolio .article .figure .figcaption h2{margin:0 0 5px 0; padding:0; font-size:16px; font-weight:bold;}
