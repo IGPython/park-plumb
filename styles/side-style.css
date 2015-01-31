@@ -63,14 +63,15 @@ input#submit:hover {
 	cursor:pointer;
 }
 .success, .error {
-	width:160px;
+	width:200px;
 	height:33px;
 	line-height:33px;
 	font-size:14px;
 	float:left;
 }
 .success {
-	color: green;
+	color: white;
+	font-size: 1.2em;
 }
 .error {
 	color: red;
