@@ -25,13 +25,6 @@
 					src="images/facebook_button.png" height="40px"
 					alt="Like me on Facebook" title="Join Us On Facebook"> </a>
 			</div>
-			<div id="facebook2">
-				<iframe
-					src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FParkPlumbTile&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=438960102838453"
-					scrolling="no" frameborder="0"
-					style="border: none; overflow: hidden; width: 450px; height: 21px;"
-					allowTransparency="true"></iframe>
-			</div>
 
 		</div>
 		<div class="contact_details_large">
