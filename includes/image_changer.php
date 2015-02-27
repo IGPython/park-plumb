@@ -5,7 +5,7 @@ Written By: Rhys Park
 
 */
 
-If ($pagename == 'index.php' || $pagename == 'feedback.php'){
+If ($pagename == 'index.php' || $pagename == 'feedback.php' || $pagename == 'cardiff_plumbing.php'){
 
 
 		define('image1', 'images/shower_tiles.jpg');
