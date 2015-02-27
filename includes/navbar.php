@@ -34,8 +34,7 @@
 				<li class="active"><a href="index.php">Homepage</a></li>
 				<li><a href="flooring.php">Floor Tiling</a></li>
 				<li><a href="walltiling.php">Wall Tiling</a></li>
-				<li><a href="laminate.php">Wood &amp; Laminate Flooring</a></li>
-				<li><a href="cardiff_plumbing.php">Plumbing Service</a></li>	
+				<li><a href="laminate.php">Wood &amp; Laminate Flooring</a></li>	
 				<li><a href="feedback.php">Customer Testimonials</a></li>
 				<?php  /*
 print "<li class="last"><a href="mailto:matt@parkplumb.co.uk?Subject=Quotation Request">Email Now for a free Quotation</a></li>"
